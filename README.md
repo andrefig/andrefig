@@ -14,7 +14,16 @@
    In the free time I like cycling :bicyclist: (and bike repairing :wrench: ), beach :beach_umbrella:, brewing beer (I've made a nice automatic RIMS using CraftBeerPi) and electronics DIY projects. I love to be with my fiance :cupid:, family :family_man_woman_boy_boy: and friends, and enjoying nice restaurants, wine :wine_glass: and beer with them.
    <br/>
    I enjoy a lot reading, mostly History :european_castle:, Philosophy of History , Religion (I'm a Roman Catholic :latin_cross:) and related Literature.
-
+    # Skils   
+    - Beer production - Intermediate
+    - Mixology - Basic (only a small number of drinks)
+    - Bike Mechanics - Basic
+    - Sailing - Basic
+    - MS Excel / VBA – Advanced.
+    - Dynamic systems modeling, control and simulation including Matlab/Simulink – Advanced.
+    - Design and prototyping electronic circuits and PCB – Intermediate.
+    - Programming (C, Python, Ruby on Rails) – Basic.
+    - Database (SQL, Pentaho/Spoon ETL) – Basic.
 
 <!---
 andrefig/andrefig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
