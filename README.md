@@ -11,7 +11,7 @@
     I'm also Studing ***Ruby on Rails*** (that's why I'm here)
     <br/>
     # Hobby    
-   In the free time I like cycling :bicyclist: (and bike repairing :wrench: ), beach :beach_umbrella:, brewing beer (I've made a nice automatic RIMS using CraftBeerPi) and electronics DIY projects. I love to be with my fiance, family and friends, and enjoying nice restaurants, wine and beer with them.
+   In the free time I like cycling :bicyclist: (and bike repairing :wrench: ), beach :beach_umbrella:, brewing beer (I've made a nice automatic RIMS using CraftBeerPi) and electronics DIY projects. I love to be with my fiance :cupid:, family :family_man_woman_boy_boy: and friends, and enjoying nice restaurants, wine :wine_glass: and beer with them.
    <br/>
 
 
