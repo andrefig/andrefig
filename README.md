@@ -13,6 +13,7 @@
     # Hobby    
    In the free time I like cycling :bicyclist: (and bike repairing :wrench: ), beach :beach_umbrella:, brewing beer (I've made a nice automatic RIMS using CraftBeerPi) and electronics DIY projects. I love to be with my fiance :cupid:, family :family_man_woman_boy_boy: and friends, and enjoying nice restaurants, wine :wine_glass: and beer with them.
    <br/>
+   I enjoy a lot reading, mostly History :european_castle:, Philosophy of History , Religion (I'm a Roman Catholic :latin_cross:) and related Literature.
 
 
 <!---
