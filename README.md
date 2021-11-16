@@ -15,15 +15,16 @@
    <br/>
    I enjoy a lot reading, mostly History :european_castle:, Philosophy of History , Religion (I'm a Roman Catholic :latin_cross:) and related Literature.
     # Skils   
-    - Beer production - Intermediate
-    - Mixology - Basic (only a small number of drinks)
-    - Bike Mechanics - Basic
-    - Sailing - Basic
     - MS Excel / VBA – Advanced.
     - Dynamic systems modeling, control and simulation including Matlab/Simulink – Advanced.
     - Design and prototyping electronic circuits and PCB – Intermediate.
     - Programming (C, Python, Ruby on Rails) – Basic.
     - Database (SQL, Pentaho/Spoon ETL) – Basic.
+    
+    - Beer production - Intermediate (my friends say my beer is between regular and great ;) )
+    - Mixology - Basic (only a small number of drinks, nothing special)
+    - Bike Mechanics - Basic
+    - Sailing - Basic
 
 <!---
 andrefig/andrefig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
