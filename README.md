@@ -22,7 +22,6 @@
     - Database (SQL, Pentaho/Spoon ETL) – Basic.
     
     - Beer production - Intermediate (my friends say my beer is something between regular and great ;) )
-    - Mixology - Basic (only a small number of drinks, nothing special)
     - Bike Mechanics - Basic
     - Sailing - Basic
 
